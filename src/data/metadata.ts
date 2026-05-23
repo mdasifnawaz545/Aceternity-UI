@@ -42,5 +42,5 @@ export const homePageMetaData = {
   creator: "Md Asif Nawaz",
   publisher: "Md Asif Nawaz",
   metadataBase: new URL("https://mdasifnawaz-portfolio.vercel.app/")
-  // It is the base url of metadata used to resolve the realtive path of the url mentioned in the metadat.
+  // It is the base url of metadata used to resolve the relative path of the url mentioned in the metadata.
 }
